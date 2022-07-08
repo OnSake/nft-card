@@ -33,9 +33,6 @@ body{
   box-shadow: 0 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
-.nft_images{
-  position: relative;
-}
 
 .nft_img{
   width: 100%;
@@ -43,20 +40,15 @@ body{
   border-radius: 20px;
   cursor: pointer;
   box-shadow: 0 5px 10px rgba(0, 0,0,0.2);
-  overflow: visible;
 }
 
 .nft_img::before{
-  content: 'Hello';
-  width: 100%;
-  max-width: 100%;
-  background-color:  red;
+  font-family: "Font Awesome 5 Brands";
+  content: "\f06e";
+  font-weight: 900;
   display: block;
 }
 
-.nft_img:hover{
-  color: var(--primary-cyan-color);
-}
 
 .nft_name{
   color: var(--white-color);

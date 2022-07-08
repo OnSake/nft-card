@@ -41,10 +41,10 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML Structure
+- CSS Variable ( with :root )
 - Flexbox
-- Mobile-first workflow
+- Media Queries
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -66,10 +66,10 @@ And maybe revise position "absolute" and "relative"
 
 ## Author
 
-- Website - [OnSake]"I haven't website yet :')"
+- Website - OnSake "I haven't website yet :')"
 - Frontend Mentor - [@OnSake](https://www.frontendmentor.io/profile/OnSake)
 - Twitter - [@OnSakeVFX](https://twitter.com/OnSakeVFX)
 ## Acknowledgments
 
-You can join these discord server [Le Repaire du Web](https://discord.gg/TsAugAbVxf) and [Developpeur Libre](https://discord.gg/xD2j49vkPn). It's a french community but a lot of people can help you on some subject ;). 
+You can join these discord server [Le Repaire du Web](https://discord.gg/TsAugAbVxf) and [Developpeur Libre](https://discord.gg/xD2j49vkPn). There are french community but a lot of people can help you on some subject ;). 
 
