@@ -33,6 +33,29 @@ body{
   box-shadow: 0 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
+/* ------------------ */
+/* ------------------ */
+
+.nft_header {
+  position: relative;
+  overflow: hidden;
+}
+
+.nft_header svg {
+  position: absolute;
+  padding: 155px;
+  width: 100px;
+  background-color: var(--primary-cyan-color);
+  border-radius: 20px;
+  opacity: 0;
+  transition: .3s;
+  left: 0%;
+}
+
+.nft_header svg path {
+  fill: #ffffff;
+}
+
 
 .nft_img{
   width: 100%;
@@ -42,17 +65,14 @@ body{
   box-shadow: 0 5px 10px rgba(0, 0,0,0.2);
 }
 
-.nft_img::before{
-  font-family: "Font Awesome 5 Brands";
-  content: "\f06e";
-  font-weight: 900;
-  display: block;
+.nft_header svg:hover{
+  opacity: .75;
 }
 
 
 .nft_name{
   color: var(--white-color);
-  padding: 1rem 0 ;
+  padding: 1rem 0;
   font-size: 28px;
   font-weight: 600;
   cursor: pointer;
