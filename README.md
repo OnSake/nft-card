@@ -68,7 +68,7 @@ And maybe revise position "absolute" and "relative"
 
 - Website - OnSake "I haven't website yet :')"
 - Frontend Mentor - [@OnSake](https://www.frontendmentor.io/profile/OnSake)
-- Twitter - [@OnSakeVFX](https://twitter.com/OnSakeVFX)
+- Twitter - [@OnSakeVFX](https://twitter.com/OnSakeexe)
 ## Acknowledgments
 
 You can join these discord server [Le Repaire du Web](https://discord.gg/TsAugAbVxf) and [Developpeur Libre](https://discord.gg/xD2j49vkPn). There are french community but a lot of people can help you on some subject ;). 
